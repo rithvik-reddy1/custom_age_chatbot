@@ -6,7 +6,7 @@ AgeWise AI is a Streamlit chatbot that uses Google Gemini to answer questions in
 
 Add application screenshots to `assets/screenshots/` and update the image path below:
 
-![Fetus in the Womb](./assets/fetus_in_womb.png)
+![Fetus in the Womb](./assets/fetus_in_the_womb.png)
 ![Toddler](./assets/toddler.png)
 ![Old Age People](./assets/old_age.png)
 
